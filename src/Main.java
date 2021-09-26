@@ -17,6 +17,16 @@ public class Main {
         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
         *  */
 
+        System.out.println("Cwiczenie 1");
+        byte zmienna1 = 24;
+        short zmienna2 = 32425;
+        int zmienna3 = 777777;
+        long zmienna4 = -54984545;
+
+
+
+
+
 
 
     }
